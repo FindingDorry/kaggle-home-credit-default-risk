@@ -3,4 +3,7 @@
 *.csv
 
 # ignores folder attributes
-.DS_Store
+*.DS_Store
+
+# ignores jupyter notebook checkpoints
+.ipynb_checkpoints/
