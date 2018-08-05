@@ -1,0 +1,6 @@
+# ignores all data files
+*.zip
+*.csv
+
+# ignores folder attributes
+.DS_Store
